@@ -1,5 +1,0 @@
-cafe-web1
-cafe-web2
-cafe-app
-cafe-sql1
-cafe-sql2
